@@ -2,7 +2,7 @@
 
 ```bash
 # Cloner le dépôt
-git clone https://votre-repo-git.git
+git clone https://github.com/hrhouma/fastapi-calculator-tensorflow-1.git
 cd votre-repo
 
 # Créer et activer un environnement virtuel
