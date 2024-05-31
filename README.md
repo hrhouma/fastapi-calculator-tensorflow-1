@@ -3,7 +3,7 @@
 ```bash
 # Cloner le dépôt
 git clone https://github.com/hrhouma/fastapi-calculator-tensorflow-1.git
-cd votre-repo
+cd fastapi-calculator-tensorflow-1
 
 # Créer et activer un environnement virtuel
 python -m venv myenv
