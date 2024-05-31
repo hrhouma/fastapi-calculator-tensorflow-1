@@ -1,7 +1,4 @@
-- Ce fichier `README.md` devrait vous aider à configurer et exécuter votre projet avec TensorFlow, FastAPI et Streamlit. N'hésitez pas à adapter les instructions selon vos besoins spécifiques.
-```
-
-### Commandes
+# Commandes
 
 ```bash
 # Cloner le dépôt
